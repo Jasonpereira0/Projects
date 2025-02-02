@@ -56,8 +56,9 @@ The project follows an end-to-end data science workflow:
 ## **Installation and Setup**
 Follow these steps to set up the project locally:
 
-1. Clone the repository: git clone https://github.com/JasonPereira0/movie-recommendation-system.git
-cd movie-recommendation-system
+1. Clone the repository: git clone https://github.com/JasonPereira0/Projects/tree/master/Movie_Recommendation
+
+cd movie_recommendation
 
 2. Install dependencies: pip install numpy pandas matplotlib seaborn scikit-learn surprise
 
