@@ -1,0 +1,28 @@
+pandas==1.5.3
+numpy==1.24.2
+scikit-learn==1.2.2
+matplotlib==3.7.1
+seaborn==0.12.2
+shap==0.41.0
+joblib==1.2.0
+
+
+Explanation of Included Libraries:
+pandas: For data manipulation and analysis.
+
+numpy: For numerical computations and array operations.
+
+scikit-learn: For building machine learning models, pipelines, and hyperparameter tuning.
+
+matplotlib: For creating static visualizations.
+
+seaborn: For enhanced statistical data visualization.
+
+shap: For explainability of machine learning models using SHAP values.
+
+joblib: For saving and loading trained models efficiently.
+
+How to Use:
+Save this content in a file named requirements.txt in your project directory.
+
+Install the dependencies by running: pip install -r requirements.txt
