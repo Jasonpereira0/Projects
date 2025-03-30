@@ -1,6 +1,6 @@
 ##Welcome!
 
->This is a collection of all my Data Science Projects - Jason Pereira
+>This is a collection of all my Data Science and Machine Learning Projects - Jason Pereira
 
 - AI ChatBot
 - Fake News Detection
